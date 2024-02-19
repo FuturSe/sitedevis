@@ -42,6 +42,7 @@
         ?>
     </head>
     <body>
+        <h2>hey</h2>
         <h2>Formulaire Devis </h2>
         <form action="TraitementFormulaire.php" method="post">
             <label for="nom_entreprise">Nom de l'entreprise : </label>
